@@ -1,0 +1,6 @@
+Algorithm,n,Time_ns,Comparisons,Swaps,Allocations,MaxDepth
+MergeSort,1000,1357600,13513,7672,1000,5
+QuickSort,1000,1251600,10382,2541,0,6
+Algorithm,n,Time_ns,Comparisons,Swaps,Allocations,MaxDepth
+MergeSort,1000,1526100,13249,7416,1000,5
+QuickSort,1000,1330900,8393,2601,0,6
