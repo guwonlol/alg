@@ -1,3 +1,4 @@
+// Main CLI to run algorithms and collect metrics
 package org.example;
 
 import java.util.Arrays;
