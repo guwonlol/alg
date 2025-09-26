@@ -1,3 +1,4 @@
+// MergeSort implementation
 package org.example;
 
 public final class MergeSort {
